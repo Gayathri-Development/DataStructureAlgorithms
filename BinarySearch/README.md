@@ -11,4 +11,4 @@ Binary Search is a searching algorithm used in a sorted array by repeatedly divi
 
 ##### Formula for calculating the Middle element of an array.
 
-``` int mid = low + (high – low)/2;
+``` int mid = low + (high – low)/2; ```
